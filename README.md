@@ -13,7 +13,7 @@ This project demonstrates how GANs can be trained to generate images from a spec
 ## Results
 The Generator evolved from producing random noise to structured—but still unrealistic—images. Mode collapse was observed by epoch 15,000.
 
-## 📁 Project Structure
+## Project Structure
 ```
 GAN-CIFAR10-Image-Generation/
 ├── gan_cifar10.py               # Python code
